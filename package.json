@@ -1,0 +1,16 @@
+{
+  "name": "OnlinePortfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d OnlinePortfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Nocookieleft.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
