@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d OnlinePortfolio"
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
